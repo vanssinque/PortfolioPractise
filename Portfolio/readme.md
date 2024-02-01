@@ -1,1 +1,0 @@
-This is an exercise about building a portfolio webpage based on Bootstrap 5.
